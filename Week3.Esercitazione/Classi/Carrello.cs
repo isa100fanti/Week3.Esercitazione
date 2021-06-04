@@ -6,21 +6,12 @@ using System.Threading.Tasks;
 
 namespace Week3.Esercitazione.Classi
 {
-    public class Carrello
+    public class Carrello 
     {
         public double Prezzo { get; set; }
         public DettaglioOrdine Dettaglio { get; set; }
 
-        public List<Prodotto> MioCarrello()
-        {
-            List<Prodotto> carrello = new List<Prodotto>();
-            foreach(Prodotto p in carrello)
-            {
-                carrello.Add(p);
-            }
-            return carrello;
-        }
-
+        
         public static List<Prodotto> AggiungiProdotto()
         {
             List<Prodotto> carrello = new List<Prodotto>();
@@ -48,7 +39,9 @@ namespace Week3.Esercitazione.Classi
 
         public static void EliminaProdotto(int codice)
         {
-            throw new NotImplementedException();
+            Console.WriteLine("scelgi il codice");
+            int insCodice = Convert.ToInt32(Console.ReadLine());
+
         }
 
         public static void ModificaQuantità()
