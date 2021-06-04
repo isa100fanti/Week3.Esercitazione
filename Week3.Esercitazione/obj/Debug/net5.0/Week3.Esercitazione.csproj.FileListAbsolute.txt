@@ -1,0 +1,16 @@
+C:\Users\isabella.centofanti\source\repos\Week3.Esercitazione\Week3.Esercitazione\bin\Debug\net5.0\Week3.Esercitazione.exe
+C:\Users\isabella.centofanti\source\repos\Week3.Esercitazione\Week3.Esercitazione\bin\Debug\net5.0\Week3.Esercitazione.deps.json
+C:\Users\isabella.centofanti\source\repos\Week3.Esercitazione\Week3.Esercitazione\bin\Debug\net5.0\Week3.Esercitazione.runtimeconfig.json
+C:\Users\isabella.centofanti\source\repos\Week3.Esercitazione\Week3.Esercitazione\bin\Debug\net5.0\Week3.Esercitazione.runtimeconfig.dev.json
+C:\Users\isabella.centofanti\source\repos\Week3.Esercitazione\Week3.Esercitazione\bin\Debug\net5.0\Week3.Esercitazione.dll
+C:\Users\isabella.centofanti\source\repos\Week3.Esercitazione\Week3.Esercitazione\bin\Debug\net5.0\ref\Week3.Esercitazione.dll
+C:\Users\isabella.centofanti\source\repos\Week3.Esercitazione\Week3.Esercitazione\bin\Debug\net5.0\Week3.Esercitazione.pdb
+C:\Users\isabella.centofanti\source\repos\Week3.Esercitazione\Week3.Esercitazione\obj\Debug\net5.0\Week3.Esercitazione.csprojAssemblyReference.cache
+C:\Users\isabella.centofanti\source\repos\Week3.Esercitazione\Week3.Esercitazione\obj\Debug\net5.0\Week3.Esercitazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabella.centofanti\source\repos\Week3.Esercitazione\Week3.Esercitazione\obj\Debug\net5.0\Week3.Esercitazione.AssemblyInfoInputs.cache
+C:\Users\isabella.centofanti\source\repos\Week3.Esercitazione\Week3.Esercitazione\obj\Debug\net5.0\Week3.Esercitazione.AssemblyInfo.cs
+C:\Users\isabella.centofanti\source\repos\Week3.Esercitazione\Week3.Esercitazione\obj\Debug\net5.0\Week3.Esercitazione.csproj.CoreCompileInputs.cache
+C:\Users\isabella.centofanti\source\repos\Week3.Esercitazione\Week3.Esercitazione\obj\Debug\net5.0\Week3.Esercitazione.dll
+C:\Users\isabella.centofanti\source\repos\Week3.Esercitazione\Week3.Esercitazione\obj\Debug\net5.0\ref\Week3.Esercitazione.dll
+C:\Users\isabella.centofanti\source\repos\Week3.Esercitazione\Week3.Esercitazione\obj\Debug\net5.0\Week3.Esercitazione.pdb
+C:\Users\isabella.centofanti\source\repos\Week3.Esercitazione\Week3.Esercitazione\obj\Debug\net5.0\Week3.Esercitazione.genruntimeconfig.cache
